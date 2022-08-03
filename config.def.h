@@ -1,6 +1,6 @@
 /* See LICENSE file for copyright and license details. */
 
-#include "themes/embark.h"
+#include "themes/nord.h"
 
 /* appearance */
 static const char font[]        = "JetBrainsMono Nerd Font:style=Regular:pixelsize=16:antialias=true";
