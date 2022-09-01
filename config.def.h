@@ -3,7 +3,7 @@
 #include "themes/nord.h"
 
 /* appearance */
-static const char font[]        = "JetBrainsMono Nerd Font:style=Regular:pixelsize=16:antialias=true";
+static const char font[]        = "Fira Code:style=Regular:pixelsize=16:antialias=true";
 static const char* urgbgcolor   = "#111111";
 static const char* urgfgcolor   = "#cc0000";
 static const char before[]      = "<";
