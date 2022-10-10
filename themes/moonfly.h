@@ -1,5 +1,5 @@
 /*
- * tabbed/themes/tokyo_night.h
+ * tabbed/themes/moonfly.h
  *
  */
 
