@@ -1,5 +1,5 @@
 /*
-* tabbed/themes/embark.h
+* tabbed/themes/everforest.h
 *
 */
 
