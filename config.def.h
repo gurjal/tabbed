@@ -1,6 +1,6 @@
 /* See LICENSE file for copyright and license details. */
 
-#include "themes/nord.h"
+#include "themes/tundra.h"
 
 /* appearance */
 static const char font[]        = "JetBrainsMono Nerd Font Mono:style=Regular:pixelsize=16:antialias=true";
