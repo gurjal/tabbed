@@ -1,6 +1,6 @@
 /* See LICENSE file for copyright and license details. */
 
-#include "themes/tundra.h"
+#include "themes/catppuccin.h"
 
 /* appearance */
 static const char font[]        = "Iosevka Nerd Font Mono:style=Regular:pixelsize=18:antialias=true";
